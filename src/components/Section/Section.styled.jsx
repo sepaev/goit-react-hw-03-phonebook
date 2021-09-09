@@ -1,8 +1,8 @@
-import styled from '@emotion/styled';
+import styled from "@emotion/styled";
 
 export const SectionStyle = styled.section`
   text-align: left;
-  max-width: 450px;
+  max-width: 500px;
   width: 100%;
   margin: auto;
   border: solid 1px black;
